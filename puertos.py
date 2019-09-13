@@ -1,4 +1,4 @@
-#programa tomado de: https://stackoverflow.com/questions/12090503/listing-available-com-ports-with-python
+#program taken from: https://stackoverflow.com/questions/12090503/listing-available-com-ports-with-python
 
 import sys
 import glob
